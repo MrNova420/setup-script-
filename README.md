@@ -1,3 +1,9 @@
+Run the and open the setup file in this and it will setup the project structure for you, you may have to give access for it to be bale to run if so paste this 
+chmod +x ~/setup.sh
+then run the script with 
+bash ~/setup.sh
+
+
 Steps to Save and Run the Script
 Open a terminal in your Ubuntu environment.
 
