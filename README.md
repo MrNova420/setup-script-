@@ -3,6 +3,7 @@ chmod +x ~/setup.sh
 then run the script with 
 bash ~/setup.sh
 
+Once the script completes, the AI_Chat_Assistant directory will be created in your current working directory with the full project structure. After that, you can start adding the provided Python files into their respective folders.
 
 Steps to Save and Run the Script
 Open a terminal in your Ubuntu environment.
